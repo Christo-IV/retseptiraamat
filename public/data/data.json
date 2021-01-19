@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Kanapasta",
+    "tags": ["pastaroad", "argitoidud"],
+    "duration": 20,
+    "ingredients": [
+      "kana 500g",
+      "toidukoor 200ml",
+      "värske basiilik 75g",
+      "soola",
+      "pipart"
+    ],
+    "preparation": "Keeda makaronid vastavalt paki peal olevale juhisele. Prae kana õlis. Maitsesta see soola ja pipraga. Lisa kana keedetud makaronidele ning lisa toidukoor ja basiilik. Hoia paar minutit madalal tulel kuni koor on kergelt keema läinud."    
+  },
+  {
+    "name": "Mozzarellasalat",
+    "tags": ["italian", "cheesey"],
+    "duration": 10,
+    "ingredients": [
+      "mozzarella 250g",
+      "kirsstomat 250g",
+      "värske basiilik 50g",
+      "balsamiäädikas 1spl",
+      "soola"
+    ],
+    "preparation": "Tükelda mozzarella, poolita kirsstomatid ning pane kaussi koos basiilikulehtedega. Maitsesta balasmiäädika ja soolaga."
+  }
+]
